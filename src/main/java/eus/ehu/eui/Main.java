@@ -6,4 +6,9 @@ public class Main {
         System.out.println("Otro mensaje");
         System.out.println("Otra version");
     }
+
+    public static void kk(){
+
+
+    }
 }
